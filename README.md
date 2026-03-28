@@ -17,4 +17,4 @@ only advances election prediction but also exposes the limitations of the curren
 wing” electoral framework in representing the complexity of the American electorate.
 
 ### Full Paper ###
-[Artificial Democracy-1.pdf](https://github.com/user-attachments/files/26318911/Artificial.Democracy-1.pdf)
+[Artificial Democracy.pdf](https://github.com/user-attachments/files/26318911/Artificial.Democracy-1.pdf)
