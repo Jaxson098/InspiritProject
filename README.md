@@ -1,4 +1,4 @@
-# Code for my [Inspirit AI Research Program]() project. #
+# Code for my [Inspirit AI Research Program](https://www.inspiritai.com/ai-research-program) project. #
 
 ### Abstract ###
 This paper applies machine learning to the study of American presidential elections, combining predictive
